@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1794216014,
+  "updatedAt": 1794230742,
   "entries": [
     {
       "id": "rp_000001",
@@ -13,6 +13,18 @@
       "sha256": "f7d8c196d7f91d30b3941319bebc36dcbdfdbdcc31192f0068cbf3174a53af03",
       "downloadUrl": "https://github.com/Karlin-Z/KodakkuReplayLibrary/releases/download/replays-0001/f7d8c196d7f91d30b3941319bebc36dcbdfdbdcc31192f0068cbf3174a53af03.dat",
       "publishedAt": 1794216014
+    },
+    {
+      "id": "rp_000004",
+      "region": "CN",
+      "contentId": 1115,
+      "revision": 14101351,
+      "effectiveCombatMs": 461522,
+      "outcome": "clear",
+      "bytes": 5095004,
+      "sha256": "bd5d680695613299c5a8bb55391158ceb256804070e9839d10bed0eab65a706d",
+      "downloadUrl": "https://github.com/Karlin-Z/KodakkuReplayLibrary/releases/download/replays-0001/bd5d680695613299c5a8bb55391158ceb256804070e9839d10bed0eab65a706d.dat",
+      "publishedAt": 1794230742
     }
   ],
   "withdrawnIds": []
