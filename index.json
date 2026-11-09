@@ -1,19 +1,8 @@
 {
   "schema": 1,
-  "updatedAt": 1794202379,
-  "entries": [
-    {
-      "id": "rp_000001",
-      "region": "CN",
-      "contentId": 1115,
-      "revision": 14101351,
-      "effectiveCombatMs": 461522,
-      "outcome": "clear",
-      "bytes": 5095004,
-      "sha256": "26f695e7c5bf7bbcbdc99ea60bd8411fe18bb024d48bbeca263bca908da057d1",
-      "downloadUrl": "https://github.com/Karlin-Z/KodakkuReplayLibrary/releases/download/replays-0001/26f695e7c5bf7bbcbdc99ea60bd8411fe18bb024d48bbeca263bca908da057d1.dat",
-      "publishedAt": 1794202379
-    }
-  ],
-  "withdrawnIds": []
+  "updatedAt": 1794202434,
+  "entries": [],
+  "withdrawnIds": [
+    "rp_000001"
+  ]
 }
